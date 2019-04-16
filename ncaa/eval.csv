@@ -1,0 +1,135 @@
+season,label,seed,school_ncaa,opp_seed,opp_ncaa
+2016,0,7,Wisconsin,6,Notre Dame
+2016,0,14,SFA,6,Notre Dame
+2016,0,11,Michigan,6,Notre Dame
+2016,0,13,Stony Brook,4,Kentucky
+2016,0,4,Kentucky,5,Indiana
+2016,0,12,Chattanooga,5,Indiana
+2016,0,3,West Virginia,14,SFA
+2016,0,10,Syracuse,1,North Carolina
+2016,0,9,Providence,1,North Carolina
+2016,0,16,FGCU,1,North Carolina
+2016,0,6,Notre Dame,1,North Carolina
+2016,0,5,Indiana,1,North Carolina
+2016,0,10,Pittsburgh,7,Wisconsin
+2016,0,2,Xavier,7,Wisconsin
+2016,0,15,Weber St.,2,Xavier
+2016,0,16,Fairleigh Dickinson,16,FGCU
+2016,0,11,Tulsa,11,Michigan
+2016,0,8,Southern California,9,Providence
+2016,0,8,Texas Tech,9,Butler
+2016,0,13,Iona,4,Iowa St.
+2016,0,12,Little Rock,4,Iowa St.
+2016,0,2,Michigan St.,15,Middle Tenn.
+2016,0,15,Middle Tenn.,10,Syracuse
+2016,0,11,Gonzaga,10,Syracuse
+2016,0,7,Dayton,10,Syracuse
+2016,0,1,Virginia,10,Syracuse
+2016,0,4,Iowa St.,1,Virginia
+2016,0,9,Butler,1,Virginia
+2016,0,16,Hampton,1,Virginia
+2016,0,6,Seton Hall,11,Gonzaga
+2016,0,3,Utah,11,Gonzaga
+2016,0,5,Purdue,12,Little Rock
+2016,0,14,Fresno St.,3,Utah
+2016,0,5,Maryland,1,Kansas
+2016,0,9,UConn,1,Kansas
+2016,0,16,Austin Peay,1,Kansas
+2016,0,12,South Dakota St.,5,Maryland
+2016,0,13,Hawaii,5,Maryland
+2016,0,4,California,13,Hawaii
+2016,0,14,Buffalo,3,Miami (FL)
+2016,0,11,Wichita St.,3,Miami (FL)
+2016,0,8,Colorado,9,UConn
+2016,0,10,Temple,7,Iowa
+2016,0,3,Miami (FL),2,Villanova
+2016,0,2,Oklahoma,2,Villanova
+2016,0,7,Iowa,2,Villanova
+2016,0,1,Kansas,2,Villanova
+2016,0,15,UNC Asheville,2,Villanova
+2016,0,1,North Carolina,2,Villanova
+2016,0,6,Arizona,11,Wichita St.
+2016,0,11,Vanderbilt,11,Wichita St.
+2016,0,16,Southern U.,16,Holy Cross
+2016,0,16,Holy Cross,1,Oregon
+2016,0,4,Duke,1,Oregon
+2016,0,8,Saint Joseph's,1,Oregon
+2016,0,6,Texas,11,UNI
+2016,0,7,Oregon St.,10,VCU
+2016,0,12,Yale,4,Duke
+2016,0,13,UNCW,4,Duke
+2016,0,9,Cincinnati,8,Saint Joseph's
+2016,0,3,Texas A&M,2,Oklahoma
+2016,0,1,Oregon,2,Oklahoma
+2016,0,10,VCU,2,Oklahoma
+2016,0,15,CSU Bakersfield,2,Oklahoma
+2016,0,11,UNI,3,Texas A&M
+2016,0,14,Green Bay,3,Texas A&M
+2016,0,5,Baylor,12,Yale
+2016,1,6,Notre Dame,7,Wisconsin
+2016,1,6,Notre Dame,14,SFA
+2016,1,6,Notre Dame,11,Michigan
+2016,1,4,Kentucky,13,Stony Brook
+2016,1,5,Indiana,4,Kentucky
+2016,1,5,Indiana,12,Chattanooga
+2016,1,14,SFA,3,West Virginia
+2016,1,1,North Carolina,10,Syracuse
+2016,1,1,North Carolina,9,Providence
+2016,1,1,North Carolina,16,FGCU
+2016,1,1,North Carolina,6,Notre Dame
+2016,1,1,North Carolina,5,Indiana
+2016,1,7,Wisconsin,10,Pittsburgh
+2016,1,7,Wisconsin,2,Xavier
+2016,1,2,Xavier,15,Weber St.
+2016,1,16,FGCU,16,Fairleigh Dickinson
+2016,1,11,Michigan,11,Tulsa
+2016,1,9,Providence,8,Southern California
+2016,1,9,Butler,8,Texas Tech
+2016,1,4,Iowa St.,13,Iona
+2016,1,4,Iowa St.,12,Little Rock
+2016,1,15,Middle Tenn.,2,Michigan St.
+2016,1,10,Syracuse,15,Middle Tenn.
+2016,1,10,Syracuse,11,Gonzaga
+2016,1,10,Syracuse,7,Dayton
+2016,1,10,Syracuse,1,Virginia
+2016,1,1,Virginia,4,Iowa St.
+2016,1,1,Virginia,9,Butler
+2016,1,1,Virginia,16,Hampton
+2016,1,11,Gonzaga,6,Seton Hall
+2016,1,11,Gonzaga,3,Utah
+2016,1,12,Little Rock,5,Purdue
+2016,1,3,Utah,14,Fresno St.
+2016,1,1,Kansas,5,Maryland
+2016,1,1,Kansas,9,UConn
+2016,1,1,Kansas,16,Austin Peay
+2016,1,5,Maryland,12,South Dakota St.
+2016,1,5,Maryland,13,Hawaii
+2016,1,13,Hawaii,4,California
+2016,1,3,Miami (FL),14,Buffalo
+2016,1,3,Miami (FL),11,Wichita St.
+2016,1,9,UConn,8,Colorado
+2016,1,7,Iowa,10,Temple
+2016,1,2,Villanova,3,Miami (FL)
+2016,1,2,Villanova,2,Oklahoma
+2016,1,2,Villanova,7,Iowa
+2016,1,2,Villanova,1,Kansas
+2016,1,2,Villanova,15,UNC Asheville
+2016,1,2,Villanova,1,North Carolina
+2016,1,11,Wichita St.,6,Arizona
+2016,1,11,Wichita St.,11,Vanderbilt
+2016,1,16,Holy Cross,16,Southern U.
+2016,1,1,Oregon,16,Holy Cross
+2016,1,1,Oregon,4,Duke
+2016,1,1,Oregon,8,Saint Joseph's
+2016,1,11,UNI,6,Texas
+2016,1,10,VCU,7,Oregon St.
+2016,1,4,Duke,12,Yale
+2016,1,4,Duke,13,UNCW
+2016,1,8,Saint Joseph's,9,Cincinnati
+2016,1,2,Oklahoma,3,Texas A&M
+2016,1,2,Oklahoma,1,Oregon
+2016,1,2,Oklahoma,10,VCU
+2016,1,2,Oklahoma,15,CSU Bakersfield
+2016,1,3,Texas A&M,11,UNI
+2016,1,3,Texas A&M,14,Green Bay
+2016,1,12,Yale,5,Baylor
